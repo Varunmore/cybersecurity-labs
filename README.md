@@ -42,10 +42,33 @@ cybersecurity-labs/
 └── README.md
 ```
 
-## Purpose
+## 📈 Current Progress
 
-This repository is used to document my practical cybersecurity learning, including techniques, tools, methodologies, vulnerabilities, lessons learned, and penetration testing workflows.
+| Platform     | Difficulty | Completed |
+| ------------ | ---------- | --------: |
+| TryHackMe    | Easy       |        11 |
+| Hack The Box | Easy       |         3 |
+| **Total**    |            |    **14** |
 
-## Disclaimer
+### Current Focus
+
+* TryHackMe Junior Penetration Tester pathway
+* Web application security
+* Linux privilege escalation
+* Network enumeration
+* Windows fundamentals
+* Active Directory fundamentals
+* Professional penetration-testing reporting
+
+---
+
+## 🏆 Certifications
+
+* **Red Hat Certified System Administrator (RHCSA)**
+* **TryHackMe Jr Penetration Tester (PT1)** — Planned
+
+---
+
+## ⚠️ Disclaimer
 
 For educational purposes only. All activities are performed in authorized lab environments such as TryHackMe and Hack The Box.
